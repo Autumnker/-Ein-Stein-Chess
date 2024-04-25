@@ -1,5 +1,5 @@
 # -EinStein_Chess
-平台：
+开发平台：
 操作系统：Windows 11 家庭中文版
 代码编辑器：Visual Studio 2022
 
